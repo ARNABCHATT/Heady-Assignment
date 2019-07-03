@@ -29,5 +29,16 @@
             android:label="@string/activity_title_ny_times_most_popular_detail"
             android:screenOrientation="portrait" />
     </application>
+        <application 
+    android:theme="@android:style/Theme.Holo"/>
+
+<application 
+    android:theme="@android:style/Theme.Holo.Light"/>
+
+<application 
+    android:theme="@android:style/Theme.Black"/>
+
+<application 
+    android:theme="@android:style/Theme.DeviceDefault"/>
 
 </manifest>
